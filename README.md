@@ -20,7 +20,8 @@ ingresos, acceso material. además de sectorizarlo según edad, sexo, comuna, en
 ([codigo scraping.png](https://github.com/pblohan/Pol-tica-p-blica-pobreza/blob/f6259636c21fefb57d8f4af5ee9cecce90c6989c/codigo%20scraping.png))
 
 ## Recopilación y Preparación de Datos:
-### 2.1. Fuentes de Datos: Identificar y descargar datos de libre acceso en
+### 2.1. Fuentes de Datos:
+Identificar y descargar datos de libre acceso en
 formatos HTML y CSV. En este caso, la fuente principal de datos será la
 base de datos proporcionada por la alcaldía “Calidad de vida. Medellín
 cómo vamos” en la que se detalla año tras año y comuna tras comuna,
@@ -34,7 +35,8 @@ Por razones practicas, y debido a que los datos no están ajustados de
 una manera uniforme, este trabajo también utilizará otras fuentes de
 datos abiertos como el DANE y otros instrumentos de medición.
 
-### 2.2. Preprocesamiento:Limpieza de datos: (i) Manejo de valores faltantes,
+### 2.2. Preprocesamiento:Limpieza de datos:
+(i) Manejo de valores faltantes,
 eliminación de duplicados, y corrección de errores; (ii) Transformación
 de datos: Conversión de datos no estructurados en HTML a formato
 tabular si es necesario.
