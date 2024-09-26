@@ -17,7 +17,7 @@ ingresos, acceso material, por lo que la fuente de datos más esencial para hace
 Luego de un rastreo y análisis exploratorio, se decide usar como principal fuente de datos la base de datos de calidad de vida de Medellín como vamos, que dentro de si, contiene datos elementales como: salud, educación, trabajo, vivienda, dinámica familiar,
 ingresos, acceso material. además de sectorizarlo según edad, sexo, comuna, entre otros.
 
-![código de webscraping](codigo scraping.png)
+![código de webscraping]([codigo scraping.png](https://github.com/pblohan/Pol-tica-p-blica-pobreza/blob/f6259636c21fefb57d8f4af5ee9cecce90c6989c/codigo%20scraping.png))
 
 ## Recopilación y Preparación de Datos:
 ### 2.1. Fuentes de Datos: Identificar y descargar datos de libre acceso en
